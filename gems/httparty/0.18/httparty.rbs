@@ -10,6 +10,7 @@ module HTTParty
     #   end
     def logger: (untyped logger, ?Symbol level, ?Symbol format) -> untyped
 
+
     # Raises HTTParty::ResponseError if response's code matches this statuses
     #
     #   class Foo
