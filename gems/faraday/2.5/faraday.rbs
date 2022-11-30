@@ -1,4 +1,5 @@
 module Faraday
+
   VERSION: ::String
 
   attr_reader self.default_adapter: Symbol
