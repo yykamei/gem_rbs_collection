@@ -1,4 +1,5 @@
 # Classes
+
 module ZenginCode
   class Bank
     def self.[]: (String code) -> Bank?
